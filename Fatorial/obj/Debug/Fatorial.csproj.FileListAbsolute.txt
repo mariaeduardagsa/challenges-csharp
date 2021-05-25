@@ -1,0 +1,6 @@
+C:\Users\ramaral\Documents\Desafios\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\ramaral\Documents\Desafios\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\ramaral\Documents\Desafios\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\ramaral\Documents\Desafios\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\ramaral\Documents\Desafios\Fatorial\obj\Debug\Fatorial.pdb

@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\Desafios\Return the Middle Character(s) of a String\bin\Debug\Return the Middle Character(s) of a String.exe.config
+C:\Users\ramaral\Documents\Desafios\Return the Middle Character(s) of a String\bin\Debug\Return the Middle Character(s) of a String.exe
+C:\Users\ramaral\Documents\Desafios\Return the Middle Character(s) of a String\bin\Debug\Return the Middle Character(s) of a String.pdb
+C:\Users\ramaral\Documents\Desafios\Return the Middle Character(s) of a String\obj\Debug\Return the Middle Character(s) of a String.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\Desafios\Return the Middle Character(s) of a String\obj\Debug\Return the Middle Character(s) of a String.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\Return the Middle Character(s) of a String\obj\Debug\Return the Middle Character(s) of a String.exe
+C:\Users\ramaral\Documents\Desafios\Return the Middle Character(s) of a String\obj\Debug\Return the Middle Character(s) of a String.pdb

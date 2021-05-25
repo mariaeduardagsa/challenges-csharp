@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\Desafios\Scottish Screaming\bin\Debug\Scottish Screaming.exe.config
+C:\Users\ramaral\Documents\Desafios\Scottish Screaming\bin\Debug\Scottish Screaming.exe
+C:\Users\ramaral\Documents\Desafios\Scottish Screaming\bin\Debug\Scottish Screaming.pdb
+C:\Users\ramaral\Documents\Desafios\Scottish Screaming\obj\Debug\Scottish Screaming.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\Desafios\Scottish Screaming\obj\Debug\Scottish Screaming.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\Scottish Screaming\obj\Debug\Scottish Screaming.exe
+C:\Users\ramaral\Documents\Desafios\Scottish Screaming\obj\Debug\Scottish Screaming.pdb

@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\Desafios\CheckEquality\bin\Debug\CheckEquality.exe.config
+C:\Users\ramaral\Documents\Desafios\CheckEquality\bin\Debug\CheckEquality.exe
+C:\Users\ramaral\Documents\Desafios\CheckEquality\bin\Debug\CheckEquality.pdb
+C:\Users\ramaral\Documents\Desafios\CheckEquality\obj\Debug\CheckEquality.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\Desafios\CheckEquality\obj\Debug\CheckEquality.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\CheckEquality\obj\Debug\CheckEquality.exe
+C:\Users\ramaral\Documents\Desafios\CheckEquality\obj\Debug\CheckEquality.pdb

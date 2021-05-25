@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\Desafios\Is the Number Less than or Equal to Zero\bin\Debug\Is the Number Less than or Equal to Zero.exe.config
+C:\Users\ramaral\Documents\Desafios\Is the Number Less than or Equal to Zero\bin\Debug\Is the Number Less than or Equal to Zero.exe
+C:\Users\ramaral\Documents\Desafios\Is the Number Less than or Equal to Zero\bin\Debug\Is the Number Less than or Equal to Zero.pdb
+C:\Users\ramaral\Documents\Desafios\Is the Number Less than or Equal to Zero\obj\Debug\Is the Number Less than or Equal to Zero.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\Desafios\Is the Number Less than or Equal to Zero\obj\Debug\Is the Number Less than or Equal to Zero.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\Is the Number Less than or Equal to Zero\obj\Debug\Is the Number Less than or Equal to Zero.exe
+C:\Users\ramaral\Documents\Desafios\Is the Number Less than or Equal to Zero\obj\Debug\Is the Number Less than or Equal to Zero.pdb

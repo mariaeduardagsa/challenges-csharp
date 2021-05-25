@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\Desafios\Hacker Speak\bin\Debug\Hacker Speak.exe.config
+C:\Users\ramaral\Documents\Desafios\Hacker Speak\bin\Debug\Hacker Speak.exe
+C:\Users\ramaral\Documents\Desafios\Hacker Speak\bin\Debug\Hacker Speak.pdb
+C:\Users\ramaral\Documents\Desafios\Hacker Speak\obj\Debug\Hacker Speak.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\Desafios\Hacker Speak\obj\Debug\Hacker Speak.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\Hacker Speak\obj\Debug\Hacker Speak.exe
+C:\Users\ramaral\Documents\Desafios\Hacker Speak\obj\Debug\Hacker Speak.pdb

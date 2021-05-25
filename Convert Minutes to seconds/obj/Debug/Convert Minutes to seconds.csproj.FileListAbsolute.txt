@@ -1,0 +1,6 @@
+C:\Users\ramaral\Documents\Desafios\Convert Minutes to seconds\bin\Debug\Convert Minutes to seconds.exe.config
+C:\Users\ramaral\Documents\Desafios\Convert Minutes to seconds\bin\Debug\Convert Minutes to seconds.exe
+C:\Users\ramaral\Documents\Desafios\Convert Minutes to seconds\bin\Debug\Convert Minutes to seconds.pdb
+C:\Users\ramaral\Documents\Desafios\Convert Minutes to seconds\obj\Debug\Convert Minutes to seconds.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\Convert Minutes to seconds\obj\Debug\Convert Minutes to seconds.exe
+C:\Users\ramaral\Documents\Desafios\Convert Minutes to seconds\obj\Debug\Convert Minutes to seconds.pdb

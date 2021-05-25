@@ -1,0 +1,6 @@
+C:\Users\ramaral\Documents\Desafios\Re-form the word\bin\Debug\Re-form the word.exe.config
+C:\Users\ramaral\Documents\Desafios\Re-form the word\bin\Debug\Re-form the word.exe
+C:\Users\ramaral\Documents\Desafios\Re-form the word\bin\Debug\Re-form the word.pdb
+C:\Users\ramaral\Documents\Desafios\Re-form the word\obj\Debug\Re-form the word.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\Re-form the word\obj\Debug\Re-form the word.exe
+C:\Users\ramaral\Documents\Desafios\Re-form the word\obj\Debug\Re-form the word.pdb

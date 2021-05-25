@@ -1,0 +1,6 @@
+C:\Users\ramaral\Documents\Desafios\Convert zero and one to 0 and 1\bin\Debug\Convert zero and one to 0 and 1.exe.config
+C:\Users\ramaral\Documents\Desafios\Convert zero and one to 0 and 1\bin\Debug\Convert zero and one to 0 and 1.exe
+C:\Users\ramaral\Documents\Desafios\Convert zero and one to 0 and 1\bin\Debug\Convert zero and one to 0 and 1.pdb
+C:\Users\ramaral\Documents\Desafios\Convert zero and one to 0 and 1\obj\Debug\Convert zero and one to 0 and 1.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\Convert zero and one to 0 and 1\obj\Debug\Convert zero and one to 0 and 1.exe
+C:\Users\ramaral\Documents\Desafios\Convert zero and one to 0 and 1\obj\Debug\Convert zero and one to 0 and 1.pdb

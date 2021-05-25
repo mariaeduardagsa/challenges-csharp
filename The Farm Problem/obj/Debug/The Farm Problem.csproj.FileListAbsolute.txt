@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\Desafios\The Farm Problem\bin\Debug\The Farm Problem.exe.config
+C:\Users\ramaral\Documents\Desafios\The Farm Problem\bin\Debug\The Farm Problem.exe
+C:\Users\ramaral\Documents\Desafios\The Farm Problem\bin\Debug\The Farm Problem.pdb
+C:\Users\ramaral\Documents\Desafios\The Farm Problem\obj\Debug\The Farm Problem.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\Desafios\The Farm Problem\obj\Debug\The Farm Problem.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\The Farm Problem\obj\Debug\The Farm Problem.exe
+C:\Users\ramaral\Documents\Desafios\The Farm Problem\obj\Debug\The Farm Problem.pdb

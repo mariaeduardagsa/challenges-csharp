@@ -1,0 +1,6 @@
+C:\Users\ramaral\Documents\Desafios\Remove the First and the Last Characters\bin\Debug\Remove the First and the Last Characters.exe.config
+C:\Users\ramaral\Documents\Desafios\Remove the First and the Last Characters\bin\Debug\Remove the First and the Last Characters.exe
+C:\Users\ramaral\Documents\Desafios\Remove the First and the Last Characters\bin\Debug\Remove the First and the Last Characters.pdb
+C:\Users\ramaral\Documents\Desafios\Remove the First and the Last Characters\obj\Debug\Remove the First and the Last Characters.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\Remove the First and the Last Characters\obj\Debug\Remove the First and the Last Characters.exe
+C:\Users\ramaral\Documents\Desafios\Remove the First and the Last Characters\obj\Debug\Remove the First and the Last Characters.pdb

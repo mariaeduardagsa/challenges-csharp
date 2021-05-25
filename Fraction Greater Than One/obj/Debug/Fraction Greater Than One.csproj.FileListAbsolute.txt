@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\Desafios\Fraction Greater Than One\bin\Debug\Fraction Greater Than One.exe.config
+C:\Users\ramaral\Documents\Desafios\Fraction Greater Than One\bin\Debug\Fraction Greater Than One.exe
+C:\Users\ramaral\Documents\Desafios\Fraction Greater Than One\bin\Debug\Fraction Greater Than One.pdb
+C:\Users\ramaral\Documents\Desafios\Fraction Greater Than One\obj\Debug\Fraction Greater Than One.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\Desafios\Fraction Greater Than One\obj\Debug\Fraction Greater Than One.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\Fraction Greater Than One\obj\Debug\Fraction Greater Than One.exe
+C:\Users\ramaral\Documents\Desafios\Fraction Greater Than One\obj\Debug\Fraction Greater Than One.pdb

@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\Desafios\DateFormat\bin\Debug\DateFormat.exe.config
+C:\Users\ramaral\Documents\Desafios\DateFormat\bin\Debug\DateFormat.exe
+C:\Users\ramaral\Documents\Desafios\DateFormat\bin\Debug\DateFormat.pdb
+C:\Users\ramaral\Documents\Desafios\DateFormat\obj\Debug\DateFormat.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\Desafios\DateFormat\obj\Debug\DateFormat.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\DateFormat\obj\Debug\DateFormat.exe
+C:\Users\ramaral\Documents\Desafios\DateFormat\obj\Debug\DateFormat.pdb

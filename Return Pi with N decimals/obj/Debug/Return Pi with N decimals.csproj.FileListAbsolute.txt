@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\Desafios\Return Pi with N decimals\bin\Debug\Return Pi with N decimals.exe.config
+C:\Users\ramaral\Documents\Desafios\Return Pi with N decimals\bin\Debug\Return Pi with N decimals.exe
+C:\Users\ramaral\Documents\Desafios\Return Pi with N decimals\bin\Debug\Return Pi with N decimals.pdb
+C:\Users\ramaral\Documents\Desafios\Return Pi with N decimals\obj\Debug\Return Pi with N decimals.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\Desafios\Return Pi with N decimals\obj\Debug\Return Pi with N decimals.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\Return Pi with N decimals\obj\Debug\Return Pi with N decimals.exe
+C:\Users\ramaral\Documents\Desafios\Return Pi with N decimals\obj\Debug\Return Pi with N decimals.pdb

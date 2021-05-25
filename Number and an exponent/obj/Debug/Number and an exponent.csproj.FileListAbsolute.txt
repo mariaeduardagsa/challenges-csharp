@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\Desafios\Number and an exponent\bin\Debug\Number and an exponent.exe.config
+C:\Users\ramaral\Documents\Desafios\Number and an exponent\bin\Debug\Number and an exponent.exe
+C:\Users\ramaral\Documents\Desafios\Number and an exponent\bin\Debug\Number and an exponent.pdb
+C:\Users\ramaral\Documents\Desafios\Number and an exponent\obj\Debug\Number and an exponent.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\Desafios\Number and an exponent\obj\Debug\Number and an exponent.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\Number and an exponent\obj\Debug\Number and an exponent.exe
+C:\Users\ramaral\Documents\Desafios\Number and an exponent\obj\Debug\Number and an exponent.pdb

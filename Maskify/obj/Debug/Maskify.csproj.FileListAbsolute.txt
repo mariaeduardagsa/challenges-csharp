@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\Desafios\Maskify\bin\Debug\Maskify.exe.config
+C:\Users\ramaral\Documents\Desafios\Maskify\bin\Debug\Maskify.exe
+C:\Users\ramaral\Documents\Desafios\Maskify\bin\Debug\Maskify.pdb
+C:\Users\ramaral\Documents\Desafios\Maskify\obj\Debug\Maskify.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\Desafios\Maskify\obj\Debug\Maskify.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\Desafios\Maskify\obj\Debug\Maskify.exe
+C:\Users\ramaral\Documents\Desafios\Maskify\obj\Debug\Maskify.pdb
